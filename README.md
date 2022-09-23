@@ -1,12 +1,14 @@
-#Olá, sou Bruno Caffé! 👋
+### Olá, sou Bruno Caffé! 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BrunoCaffz&show_icons=true&theme=radical" />
+⚙ Procurando minha primeira oportunidade para trabalhar na área!
+🌱Estudando React
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCaffz&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-
-
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="left" src ="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="left" src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<div> 
+ <a href="https://github.com/BrunoCaffz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCaffz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCaffz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div>
+    
+  </div>
