@@ -1,4 +1,4 @@
-### Olá, sou Bruno Caffé! 👋
+### Olá! Meu nome é Bruno Caffé! 👋
 
 ⚙ Procurando minha primeira oportunidade para trabalhar na área!
 
@@ -24,5 +24,14 @@
  <a href="https://www.instagram.com/brun_caffz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
  <a href="mailto:brunogkaffe@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
  
-  ![Snake animation](https://github.com/BrunoCaffz/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ### Sobre mim  
+ <p> Olá, sou Bruno Caffé , estudante e apaixonado pela área de desenvolvimento! Tenho 19 anos e estou buscando minha primeira oportunidade paratrabalhar no ramo! </p>
+ 
+ 
+ > ☎ Informações
+  * Nome: Bruno Caffé
+  * Idade: 19 anos
+  * Email: <a href="mailto:brunogkaffe@gmail.com"> brunogkaffe@gmail.com</a>
+ 
+  ![Snake animation](https://github.com/BrunoCaffz/BrunoCaffz/blob/output/github-contribution-grid-snake.svg)
  
