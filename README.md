@@ -32,6 +32,9 @@
   * Nome: Bruno Caffé
   * Idade: 19 anos
   * Email: <a href="mailto:brunogkaffe@gmail.com"> brunogkaffe@gmail.com</a>
+  * Portifólio: <a href="https://brunocaffz.github.io/portfolio/">Acesse aqui</a><br>
+  * Linkedin: <a href="https://www.linkedin.com/in/bruno-caff%C3%A9-977a28238/">Acesse aqui</a><br>
+ 
  
   ![Snake animation](https://github.com/BrunoCaffz/BrunoCaffz/blob/output/github-contribution-grid-snake.svg)
  
