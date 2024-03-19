@@ -34,6 +34,3 @@
   * Email: <a href="mailto:brunogkaffe@gmail.com"> brunogkaffe@gmail.com</a>
   * Portifólio: <a href="https://brunocaffz.github.io/portfolio/" target="_blank">Acesse aqui</a><br>
   * Linkedin: <a href="https://www.linkedin.com/in/bruno-caff%C3%A9-977a28238/" target="_blank">Acesse aqui</a><br>
- 
-
- 
