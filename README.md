@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Bruno Caffé! 👋
 
-⚙ Procurando minha primeira oportunidade para trabalhar na área!
+⚙ Procurando aprimorar meus conhecimentos!
 
 <div> 
  <a href="https://github.com/BrunoCaffz">
