@@ -23,12 +23,12 @@
  <a href="mailto:brunogkaffe@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
  
  ### Sobre mim  
- <p> Olá, sou Bruno Caffé , estudante e apaixonado pela área de desenvolvimento! Tenho 20 anos e estou buscando minha primeira oportunidade paratrabalhar no ramo! </p>
+ <p> Olá, sou Bruno Caffé , estudante e apaixonado pela área de desenvolvimento! Tenho 21 anos e atualmente estou atuando na área de desenvolvimento FullStack com Java SpringBoot, Angular e MongoDB!</p>
  
  
  > ☎ Informações
   * Nome: Bruno Caffé
-  * Idade: 19 anos
-  * Email: <a href="mailto:brunogkaffe@gmail.com"> brunogkaffe@gmail.com</a>
-  * Portifólio: <a href="https://brunocaffz.github.io/portfolio/" target="_blank">Acesse aqui</a><br>
+  * Idade: 21 anos
+  * Email: <a href="mailto:brunogkaffe@gmail.com"> brunogcaffe@gmail.com</a>
+  * Portifólio (desatualizado): <a href="https://brunocaffz.github.io/portfolio/" target="_blank">Acesse aqui</a><br>
   * Linkedin: <a href="https://www.linkedin.com/in/bruno-caff%C3%A9-977a28238/" target="_blank">Acesse aqui</a><br>
