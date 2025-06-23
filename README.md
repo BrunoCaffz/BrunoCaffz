@@ -53,7 +53,7 @@ Gosto de aprender coisas novas todos os dias e estou sempre aberto a desafios qu
 
 - ✉️ **Email:** [brunogkaffe@gmail.com](mailto:brunogkaffe@gmail.com)  
 - 🌐 **Portfólio (em atualização):** [https://brunocaffz.github.io/portfolio/](https://brunocaffz.github.io/portfolio/)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/bruno-caff%C3%A9-977a28238/](https://www.linkedin.com/in/bruno-caff%C3%A9-977a28238/)
+- 💼 **LinkedIn:** [www.linkedin.com/in/bruno-caffé](www.linkedin.com/in/bruno-caffé)
 
 ---
 
