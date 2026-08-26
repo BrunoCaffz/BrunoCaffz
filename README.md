@@ -1,13 +1,4 @@
-<!--
-  BANNER
-  Troque a imagem abaixo pela sua (a que você já esboçou no Excalidraw).
-  Suba o arquivo numa pasta /images dentro do repo BrunoCaffz/BrunoCaffz
-  e aponte o src pro caminho raw dela, ex:
-  https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/banner.png
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/banner.png" alt="Banner" width="100%"/>
-</p>
+[![Banner](https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/bannerCaffe.jpeg "Bruno Caffé")](https://github.com/BrunoCaffz)
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Prazer! Caffé
 
@@ -16,12 +7,16 @@
 <p align="left">
   <img align="left" width="120" src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/foto.png" alt="foto"/>
 
-- Nome: **Bruno Caffé;**
-- Idade: **23 anos;**
-- Onde moro: **São Paulo - Z/O;**
-- Formação: **ADS na FIAP;** (finalizada)
-- Trabalho hoje: **Tecban;**
-- Foco: **Java, Spring Boot e bancos de dados relacionais/NoSQL;**
+\`\`\`json
+{
+  "nome": "Bruno Caffé",
+  "idade": 23,
+  "localização": "São Paulo - Zona Oeste",
+  "formação": "ADS - FIAP (concluído)",
+  "trabalho_atual": "Tecban",
+  "foco": ["Spring Boot", "Sql/NoSQL", "Angular", "IA", "Docker", "AWS"]
+}
+\`\`\`
 
 </p>
 <br clear="left"/>
