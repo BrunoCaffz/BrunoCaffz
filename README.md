@@ -30,7 +30,6 @@
 <img
   align="right"
   width="240"
-  hspace="20"
   src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/refs/heads/main/images%20and%20gifs/asuka.gif"
   alt="Asuka"
 />
