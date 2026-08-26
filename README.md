@@ -1,13 +1,4 @@
-<!--
-  BANNER
-  Troque a imagem abaixo pela sua (a que você já esboçou no Excalidraw).
-  Suba o arquivo numa pasta /images dentro do repo BrunoCaffz/BrunoCaffz
-  e aponte o src pro caminho raw dela, ex:
-  https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/banner.png
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/banner.png" alt="Banner" width="100%"/>
-</p>
+[![Banner](https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/bannerCaffe.jpeg "Bruno Caffé")](https://github.com/BrunoCaffz)
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Prazer! Caffé
 
