@@ -23,8 +23,13 @@
 
 ## **Experience**
 
-<p align="left">
-  <img align="right" width="240" height="240" src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/refs/heads/main/images%20and%20gifs/asuka.gif" alt="photo"/>
+<img
+  align="right"
+  width="240"
+  src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/refs/heads/main/images%20and%20gifs/asuka.gif"
+  alt="Asuka"
+/>
+
 
 - I started as an **ABAP/SAP Developer**, learning business logic in legacy systems
 - I worked on a SaaS platform for collecting municipal electronic invoices using **Java + Spring Boot + Angular + MongoDB**
@@ -59,9 +64,6 @@
 ## **Statistics**
 
 <p>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BrunoCaffz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCaffz&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-</p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoCaffz&theme=dracula&hide_border=true"/>
