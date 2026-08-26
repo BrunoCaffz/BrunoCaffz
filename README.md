@@ -5,9 +5,9 @@
 *Desenvolvedor full stack, aprendendo um pouco de tudo pelo caminho*
 
 <p align="left">
-  <img align="left" width="120" src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/foto.png" alt="foto"/>
+  <img align="left" width="235" height="190" src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/refs/heads/main/images%20and%20gifs/rei-ayanami-evangelion.gif" alt="foto"/>
 
-\`\`\`json
+```json
 {
   "nome": "Bruno Caffé",
   "idade": 23,
@@ -16,7 +16,7 @@
   "trabalho_atual": "Tecban",
   "foco": ["Spring Boot", "Sql/NoSQL", "Angular", "IA", "Docker", "AWS"]
 }
-\`\`\`
+```
 
 </p>
 <br clear="left"/>
@@ -24,7 +24,7 @@
 ## **Experiência**
 
 <p align="left">
-  <img align="left" width="120" src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/foto2.png" alt="foto"/>
+  <img align="right" width="240" height="250" src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/refs/heads/main/images%20and%20gifs/asuka.gif" alt="foto"/>
 
 - Comecei como **desenvolvedor ABAP/SAP**, aprendendo lógica de negócio em sistemas legados
 - Trabalhei num SaaS de captura de NF-e municipais em **Java + Spring Boot + Angular + MongoDB**
