@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/bannerCaffe.jpeg "Bruno Caffé")](https://github.com/BrunoCaffz)
+[![Banner](https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images%20and%20gifs/bannerCaffe.jpeg "Bruno Caffé")](https://github.com/BrunoCaffz)
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Nice to meet you! I'm Caffé
 
@@ -63,19 +63,8 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-## **Statistics**
+## **>_ Statistics**
 
-<p>
-  <img
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=BrunoCaffz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
-  />
-
-  <img
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCaffz&layout=compact&langs_count=7&theme=dracula&hide_border=true"
-  />
-</p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoCaffz&theme=dracula&hide_border=true"/>
