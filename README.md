@@ -7,12 +7,16 @@
 <p align="left">
   <img align="left" width="120" src="https://raw.githubusercontent.com/BrunoCaffz/BrunoCaffz/main/images/foto.png" alt="foto"/>
 
-- Nome: **Bruno Caffé;**
-- Idade: **23 anos;**
-- Onde moro: **São Paulo - Z/O;**
-- Formação: **ADS na FIAP;** (finalizada)
-- Trabalho hoje: **Tecban;**
-- Foco: **Java, Spring Boot e bancos de dados relacionais/NoSQL;**
+\`\`\`json
+{
+  "nome": "Bruno Caffé",
+  "idade": 23,
+  "localização": "São Paulo - Zona Oeste",
+  "formação": "ADS - FIAP (concluído)",
+  "trabalho_atual": "Tecban",
+  "foco": ["Spring Boot", "Sql/NoSQL", "Angular", "IA", "Docker", "AWS"]
+}
+\`\`\`
 
 </p>
 <br clear="left"/>
