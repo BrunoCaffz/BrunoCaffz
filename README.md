@@ -77,7 +77,7 @@
   />
 </a>
 
-## **Contact**
+## **📞 Contact**
 
 **Feel free to reach out — I always reply :)**
 
