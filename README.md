@@ -2,7 +2,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Nice to meet you! I'm Caffé
 
-*Full Stack Developer, learning a bit of everything along the way*
+*Java Full Stack Developer focused on backend development, system modernization and mission-critical financial applications.*
 
 <img
   align="left"
@@ -15,11 +15,12 @@
 ```json
 {
   "name": "Bruno Caffé",
-  "age": 23,
-  "location": "São Paulo - West Zone",
-  "education": "Systems Analysis and Development - FIAP (completed)",
-  "current_job": "Tecban",
-  "focus": ["Spring Boot", "SQL/NoSQL", "Angular", "AI", "Docker", "AWS"]
+  "location": "São Paulo, Brazil",
+  "education": "Systems Analysis and Development - FIAP",
+  "current_role": "Software Developer @ TecBan",
+  "industry": "Financial Services / ATM Infrastructure",
+  "main_stack": ["Java", "Spring Boot", "SQL", "Vue.js", "AWS"],
+  "focus": ["Backend", "System Modernization", "APIs", "Cloud"]
 }
 ```
 
@@ -37,7 +38,7 @@
 - I started as an **ABAP/SAP Developer**, learning business logic in legacy systems
 - I worked on a SaaS platform for collecting municipal electronic invoices using **Java + Spring Boot + Angular + MongoDB**
 - I customized business rules within the legacy **Sankhya ERP** ecosystem
-- Today, I work on the migration and modernization of Java systems with a large number of users
+- Working on the modernization of legacy Java EE applications running on WebSphere, migrating workloads from Java 8 to Java 21 and replacing legacy SOAP integrations with REST APIs in an AWS-based environment.
 - In my free time, I build things with **Vue.js**, study **AWS**, and try to keep up with the ever-evolving world of technology
 
 <br clear="right"/>
