@@ -58,13 +58,9 @@ My first serious language at work was **ABAP**, and honestly? It was rough. For 
 - Legacy code: fiscal, POS (PDV) and reporting modules with **JasperReports**
 - **Java 8** with an in-house framework, plus **HTML, CSS, JavaScript, jQuery and Ajax** — chaotic, but the best training I could ask for
 
-**Municipal e-invoice SaaS** — *Java Developer · ~1 year*
+**MP Consultoria** — *Java Developer · ~1 year*
 - **Java + Spring Boot + Angular + MongoDB**
 - **GitFlow** and **Azure** deploys for dev and production
-
-**MP Consultoria** — *Functional Analyst → ABAP Developer · ~2 years*
-- Started at level 1: functional and technical documentation, testing ABAP developments
-- Moved on to **ABAP/SAP** development, learning business logic in big legacy systems
 
 <br clear="right"/>
 
