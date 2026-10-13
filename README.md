@@ -6,7 +6,7 @@
 
 I started coding around 16, in high school, building static HTML pages just for fun and learning animations from Indian YouTube tutorials (shoutout to them, legends). After school I jumped straight into a technical course at **Senac Osasco**, and that's where I really fell in love with programming.
 
-My first serious language at work was **ABAP**, and honestly? It was rough. For a while I doubted I could make it as a developer at all. Turns out I could — I just needed a different stack. Today I spend my days modernizing legacy systems, shipping to production at 3 a.m. and fighting incidents in the financial sector. ☕
+My first serious language at work was **ABAP**, and honestly? It was rough. For a while I doubted I could make it as a developer at all. Turns out I could. I just needed a different stack. Today I spend my days modernizing legacy systems, shipping to production at 3 a.m. and fighting incidents in the financial sector. ☕
 
 <img
   align="left"
@@ -37,7 +37,7 @@ My first serious language at work was **ABAP**, and honestly? It was rough. For 
 -  **Systems Analysis & Development** — FIAP *(graduated Aug 2026)*
 -  **Postgraduate in AI Engineering** — *starting 2027*
 -  **AWS Cloud Practitioner** — *studying, aiming for this year*
-- 🌎 **English** — B1/B2, taking private classes and leveling up (international opportunities, I'm looking at you)
+- 🌎 **English** — B1/B2, taking private classes and leveling up!
 
 ## **>_ Experience**
 
@@ -55,7 +55,7 @@ My first serious language at work was **ABAP**, and honestly? It was rough. For 
 - Heavy **SQL / PL/SQL**: tables, views, triggers, functions
 
 **Sankhya ERP** — *Developer*
-- Real legacy code: fiscal, POS (PDV) and reporting modules with **JasperReports**
+- Legacy code: fiscal, POS (PDV) and reporting modules with **JasperReports**
 - **Java 8** with an in-house framework, plus **HTML, CSS, JavaScript, jQuery and Ajax** — chaotic, but the best training I could ask for
 
 **Municipal e-invoice SaaS** — *Java Developer · ~1 year*
